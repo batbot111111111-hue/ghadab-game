@@ -1,12 +1,17 @@
 [
   {
     "urls": [
+      "stun:stun.relay.metered.ca:80"
+    ]
+  },
+  {
+    "urls": [
       "turn:global.relay.metered.ca:80",
       "turn:global.relay.metered.ca:80?transport=tcp",
       "turn:global.relay.metered.ca:443",
       "turns:global.relay.metered.ca:443?transport=tcp"
     ],
-    "username": "Bf0d9270ff8419194437e851",
+    "username": "bf0d9270ff8419194437e851",
     "credential": "WbwY2knwNUTikb7S"
   }
 ]
